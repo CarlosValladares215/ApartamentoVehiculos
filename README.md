@@ -28,6 +28,7 @@ public class LogVehiculo {
 }
 ```
 Turno:
+
 ```java
 public class LogTurno {
 
@@ -97,7 +98,9 @@ public class LogPropietario {
 ```
 
 Intrefaz Grafica:
+
 Registro del Propietario:
+
 ![image](https://github.com/user-attachments/assets/858af99a-229f-46c0-8ca3-f58c923fcb22)
 
 ```java
@@ -153,8 +156,11 @@ Registro del Propietario:
     }        Botones:
 ```
 Registro de Vehiculo:
+
 Interfaz Grafica:
+
 ![image](https://github.com/user-attachments/assets/fb3d96e1-6e1b-44fc-a65b-4dd17daa9754)
+
 Codigo:
 ```java
 private void BTN_GuardarActionPerformed(java.awt.event.ActionEvent evt) {                                            
@@ -198,8 +204,11 @@ private void BTN_GuardarActionPerformed(java.awt.event.ActionEvent evt) {
     }
 ```
 Reserva de Turnos:
+
 Interfaz Grafica:
+
 ![image](https://github.com/user-attachments/assets/18620388-264b-48db-86b8-761dbc5b4837)
+
 
 ```java
 private void BTN_RegistrarActionPerformed(java.awt.event.ActionEvent evt) {                                              
